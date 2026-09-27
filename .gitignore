@@ -12,11 +12,6 @@ backend/uploads/*
 # Face embeddings
 backend/data/embeddings/*
 
-# Dataset images
-dataset/missing/*
-dataset/found/*
-!dataset/missing/.gitkeep
-!dataset/found/.gitkeep
 # Image files
 *.jpg
 *.jpeg
